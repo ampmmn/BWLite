@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="328px" preserveAspectRatio="none" style="width:324px;height:328px;background:#FFFFFF;" version="1.1" viewBox="0 0 324 328" width="324px" zoomAndPan="magnify"><defs><filter height="300%" id="f1azurm7a1p55w" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="252" x="29.5" y="18.6855">アプリケーションクラスまわり</text><!--MD5=[d0a7d32e472e695a8f8dd12822625bcb]
+class CWinApp--><rect codeLine="8" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="54.9297" id="CWinApp" style="stroke:#A80036;stroke-width:1.5;" width="77" x="176" y="29.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="51" x="189" y="47.0977">CWinApp</text><line style="stroke:#A80036;stroke-width:1.5;" x1="177" x2="252" y1="54.7344" y2="54.7344"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="182" y="70.1533">MFCのクラス</text><line style="stroke:#A80036;stroke-width:1.5;" x1="177" x2="252" y1="76.5703" y2="76.5703"/><!--MD5=[ddf038928ff1cff1896e589d4e2a58cb]
+class CDialogEx--><rect codeLine="13" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="54.9297" id="CDialogEx" style="stroke:#A80036;stroke-width:1.5;" width="77" x="233" y="144.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="58" x="242.5" y="162.0977">CDialogEx</text><line style="stroke:#A80036;stroke-width:1.5;" x1="234" x2="309" y1="169.7344" y2="169.7344"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="239" y="185.1533">MFCのクラス</text><line style="stroke:#A80036;stroke-width:1.5;" x1="234" x2="309" y1="191.5703" y2="191.5703"/><!--MD5=[74ae4f2bcaee02cfd349b1687d4ed3ed]
+class CWnd--><rect codeLine="18" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="54.9297" id="CWnd" style="stroke:#A80036;stroke-width:1.5;" width="77" x="7" y="144.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="28.5" y="162.0977">CWnd</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="83" y1="169.7344" y2="169.7344"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="13" y="185.1533">MFCのクラス</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="83" y1="191.5703" y2="191.5703"/><!--MD5=[f69a8df83f8eef4e0c3e45e33c3c83c8]
+class SoyokazeApp--><rect codeLine="23" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="41.0938" id="SoyokazeApp" style="stroke:#A80036;stroke-width:1.5;" width="79" x="119" y="151.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="73" x="122" y="169.0977">SoyokazeApp</text><line style="stroke:#A80036;stroke-width:1.5;" x1="120" x2="197" y1="176.7344" y2="176.7344"/><line style="stroke:#A80036;stroke-width:1.5;" x1="120" x2="197" y1="184.7344" y2="184.7344"/><!--MD5=[20774987ed61912d5b4e610943ec187b]
+class SoyokazeDlg--><rect codeLine="27" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="54.9297" id="SoyokazeDlg" style="stroke:#A80036;stroke-width:1.5;" width="77" x="233" y="259.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="71" x="236" y="277.0977">SoyokazeDlg</text><line style="stroke:#A80036;stroke-width:1.5;" x1="234" x2="309" y1="284.7344" y2="284.7344"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="239" y="300.1533">入力画面</text><line style="stroke:#A80036;stroke-width:1.5;" x1="234" x2="309" y1="306.5703" y2="306.5703"/><!--MD5=[1e5d108a13113c9525dc790a9151e94c]
+class TaskTray--><rect codeLine="32" fill="#FEFECE" filter="url(#f1azurm7a1p55w)" height="54.9297" id="TaskTray" style="stroke:#A80036;stroke-width:1.5;" width="133" x="22" y="259.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="50" x="63.5" y="277.0977">TaskTray</text><line style="stroke:#A80036;stroke-width:1.5;" x1="23" x2="154" y1="284.7344" y2="284.7344"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="28" y="300.1533">タスクトレイウインドウ</text><line style="stroke:#A80036;stroke-width:1.5;" x1="23" x2="154" y1="306.5703" y2="306.5703"/><!--MD5=[c162d8f14d19fdfe5415a5f6d8559f25]
+reverse link CWinApp to SoyokazeApp--><path codeLine="38" d="M192.26,103.0306 C183.89,119.9106 174.81,138.2406 168.17,151.6206 " fill="none" id="CWinApp-backto-SoyokazeApp" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="186.08,99.7306,201.23,84.9206,198.62,105.9506,186.08,99.7306" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[5e336705cd65aca596295412a449ad22]
+reverse link CDialogEx to SoyokazeDlg--><path codeLine="40" d="M271.5,220.0306 C271.5,233.5206 271.5,247.7606 271.5,259.5506 " fill="none" id="CDialogEx-backto-SoyokazeDlg" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="264.5,219.9206,271.5,199.9206,278.5,219.9206,264.5,219.9206" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[29cc0d586bfb102402f6311c52de6f9d]
+reverse link CWinApp to CDialogEx--><path codeLine="42" d="M234.08,96.9606 C242,112.6606 250.94,130.3706 258.09,144.5506 " fill="none" id="CWinApp-backto-CDialogEx" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="228.01,84.9206,227.1402,92.0791,233.4134,95.6352,234.2833,88.4768,228.01,84.9206" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f710ea4efa8a5ab67d504206d14e19cd]
+reverse link CWnd to TaskTray--><path codeLine="44" d="M62.98,219.0706 C68.22,232.8406 73.79,247.4806 78.38,259.5506 " fill="none" id="CWnd-backto-TaskTray" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="56.26,221.1006,55.69,199.9206,69.35,216.1206,56.26,221.1006" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[5d29e13adab9684b171d3f24f053b905]
+link SoyokazeApp to TaskTray--><path codeLine="46" d="M146.31,192.8206 C135.67,209.9906 120.06,235.1906 107.75,255.0706 " fill="none" id="SoyokazeApp-to-TaskTray" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="105.01,259.4906,113.1636,253.9663,107.6536,255.2466,106.3732,249.7366,105.01,259.4906" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[30315c98e43ea29b0c3ed8db83a0fc82]
+@startuml{application.svg}
+
+!startsub overview
+
+hide circle
+
+title アプリケーションクラスまわり
+
+class CWinApp
+{
+    MFCのクラス
+}
+
+class CDialogEx
+{
+    MFCのクラス
+}
+
+class CWnd
+{
+    MFCのクラス
+}
+
+class SoyokazeApp
+{
+}
+
+class SoyokazeDlg
+{
+    入力画面
+}
+
+class TaskTray
+{
+    タスクトレイウインドウ
+}
+
+
+SoyokazeApp -up-|> CWinApp
+
+SoyokazeDlg -up-|> CDialogEx
+
+CWinApp *.. CDialogEx
+
+TaskTray -up-|> CWnd
+
+SoyokazeApp ..> TaskTray
+
+
+!endsub
+
+@enduml
+
+@startuml{application.svg}
+
+
+hide circle
+
+title アプリケーションクラスまわり
+
+class CWinApp
+{
+    MFCのクラス
+}
+
+class CDialogEx
+{
+    MFCのクラス
+}
+
+class CWnd
+{
+    MFCのクラス
+}
+
+class SoyokazeApp
+{
+}
+
+class SoyokazeDlg
+{
+    入力画面
+}
+
+class TaskTray
+{
+    タスクトレイウインドウ
+}
+
+
+SoyokazeApp -up-|> CWinApp
+
+SoyokazeDlg -up-|> CDialogEx
+
+CWinApp *.. CDialogEx
+
+TaskTray -up-|> CWnd
+
+SoyokazeApp ..> TaskTray
+
+
+
+@enduml
+
+PlantUML version 1.2021.10(Mon Aug 30 22:43:48 JST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>

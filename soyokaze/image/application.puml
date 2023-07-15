@@ -1,0 +1,53 @@
+@startuml{application.svg}
+
+!startsub overview
+
+hide circle
+
+title アプリケーションクラスまわり
+
+class CWinApp
+{
+    MFCのクラス
+}
+
+class CDialogEx
+{
+    MFCのクラス
+}
+
+class CWnd
+{
+    MFCのクラス
+}
+
+class SoyokazeApp
+{
+}
+
+class SoyokazeDlg
+{
+    入力画面
+}
+
+class TaskTray
+{
+    タスクトレイウインドウ
+}
+
+
+SoyokazeApp -up-|> CWinApp
+
+SoyokazeDlg -up-|> CDialogEx
+
+CWinApp *.. CDialogEx
+
+TaskTray -up-|> CWnd
+
+SoyokazeApp ..> TaskTray
+
+
+!endsub
+
+@enduml
+
