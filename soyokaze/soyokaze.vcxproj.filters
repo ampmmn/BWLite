@@ -1317,6 +1317,9 @@
     <ClInclude Include="commands\snippetgroup\SnippetGroupProvider.h">
       <Filter>commands\snippetgroup</Filter>
     </ClInclude>
+    <ClInclude Include="utility\DemotedProcessToken.h">
+      <Filter>utility</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -2332,6 +2335,9 @@
     </ClCompile>
     <ClCompile Include="commands\snippetgroup\SnippetGroupProvider.cpp">
       <Filter>commands\snippetgroup</Filter>
+    </ClCompile>
+    <ClCompile Include="utility\DemotedProcessToken.cpp">
+      <Filter>utility</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
